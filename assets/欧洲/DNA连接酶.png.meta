@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "561792d6-11cc-40b4-b715-23ec8bc5760f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "DNA连接酶": {
+      "ver": "1.0.3",
+      "uuid": "0d808dbc-7501-4cd1-9c9a-c3d63643fbbf",
+      "rawTextureUuid": "561792d6-11cc-40b4-b715-23ec8bc5760f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -24.5,
+      "offsetY": 19,
+      "trimX": 35,
+      "trimY": 71,
+      "width": 281,
+      "height": 379,
+      "rawWidth": 400,
+      "rawHeight": 559,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

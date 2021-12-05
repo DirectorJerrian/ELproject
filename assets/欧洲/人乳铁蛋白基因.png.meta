@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "3976c98a-09dc-4715-87b7-c8ae1350104c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "人乳铁蛋白基因": {
+      "ver": "1.0.3",
+      "uuid": "843fad64-e9b1-46b2-9a9e-f4c44ced9449",
+      "rawTextureUuid": "3976c98a-09dc-4715-87b7-c8ae1350104c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 5.5,
+      "offsetY": 26,
+      "trimX": 65,
+      "trimY": 242,
+      "width": 281,
+      "height": 23,
+      "rawWidth": 400,
+      "rawHeight": 559,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

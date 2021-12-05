@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "26d6b45d-0bfa-4722-af93-0f68389d43bd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "含有重组Ti质粒的农杆菌": {
+      "ver": "1.0.3",
+      "uuid": "5fdf1e30-6cda-493b-8409-99943779e1d9",
+      "rawTextureUuid": "26d6b45d-0bfa-4722-af93-0f68389d43bd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -5.5,
+      "offsetY": 14,
+      "trimX": 54,
+      "trimY": 171,
+      "width": 281,
+      "height": 189,
+      "rawWidth": 400,
+      "rawHeight": 559,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

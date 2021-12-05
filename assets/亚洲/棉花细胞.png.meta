@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "6ebec2b8-769a-4683-bf0b-3018a4833f63",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "棉花细胞": {
+      "ver": "1.0.3",
+      "uuid": "a22226dc-2201-446d-9d26-27d0c665d169",
+      "rawTextureUuid": "6ebec2b8-769a-4683-bf0b-3018a4833f63",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -18.5,
+      "offsetY": 22,
+      "trimX": 41,
+      "trimY": 173,
+      "width": 281,
+      "height": 169,
+      "rawWidth": 400,
+      "rawHeight": 559,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "4f5da97e-bbfc-4300-9952-26f621fd37d6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "非洲": {
+      "ver": "1.0.3",
+      "uuid": "715444b5-0910-4759-8dc7-9b75adf25db8",
+      "rawTextureUuid": "4f5da97e-bbfc-4300-9952-26f621fd37d6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1076,
+      "height": 650,
+      "rawWidth": 1076,
+      "rawHeight": 650,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

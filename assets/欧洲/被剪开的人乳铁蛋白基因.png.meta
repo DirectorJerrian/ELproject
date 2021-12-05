@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "825a0985-7aa1-4cf0-b876-79ee798419e8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "被剪开的人乳铁蛋白基因": {
+      "ver": "1.0.3",
+      "uuid": "4b5feca8-b2ef-4d97-9e7d-bebe9a8f055b",
+      "rawTextureUuid": "825a0985-7aa1-4cf0-b876-79ee798419e8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -19.5,
+      "offsetY": -37,
+      "trimX": 40,
+      "trimY": 305,
+      "width": 281,
+      "height": 23,
+      "rawWidth": 400,
+      "rawHeight": 559,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

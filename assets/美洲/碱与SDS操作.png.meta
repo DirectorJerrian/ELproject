@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "c80a0bea-95e4-48bc-8eac-6869da1c2a3f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "碱与SDS操作": {
+      "ver": "1.0.3",
+      "uuid": "a1756f54-ce25-4db3-bc87-339975e9fcb7",
+      "rawTextureUuid": "c80a0bea-95e4-48bc-8eac-6869da1c2a3f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -7.5,
+      "offsetY": 1.5,
+      "trimX": 90,
+      "trimY": 150,
+      "width": 405,
+      "height": 97,
+      "rawWidth": 600,
+      "rawHeight": 400,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "13b83b78-1540-4f8f-9d47-ce39f15cd494",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "RNA聚合酶": {
+      "ver": "1.0.3",
+      "uuid": "fbae1688-f65e-485c-935f-e84253787679",
+      "rawTextureUuid": "13b83b78-1540-4f8f-9d47-ce39f15cd494",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 4.5,
+      "offsetY": 32,
+      "trimX": 14,
+      "trimY": 79,
+      "width": 281,
+      "height": 197,
+      "rawWidth": 300,
+      "rawHeight": 419,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

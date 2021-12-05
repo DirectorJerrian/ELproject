@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "7952cc43-3bf1-4464-a891-f5c00ba50b2c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "胰岛素基因片段": {
+      "ver": "1.0.3",
+      "uuid": "b4efac56-9ebb-4653-8aa0-0eb9daae4f32",
+      "rawTextureUuid": "7952cc43-3bf1-4464-a891-f5c00ba50b2c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -4.5,
+      "offsetY": -27,
+      "trimX": 55,
+      "trimY": 266,
+      "width": 281,
+      "height": 81,
+      "rawWidth": 400,
+      "rawHeight": 559,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

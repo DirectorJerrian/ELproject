@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "6cedd7cf-1cfb-4491-abcb-4e6b5ee6afb8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "被切开的质粒": {
+      "ver": "1.0.3",
+      "uuid": "f9f8d8c9-8953-4a88-a689-a2605350caac",
+      "rawTextureUuid": "6cedd7cf-1cfb-4491-abcb-4e6b5ee6afb8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -5.5,
+      "offsetY": 32,
+      "trimX": 54,
+      "trimY": 104,
+      "width": 281,
+      "height": 287,
+      "rawWidth": 400,
+      "rawHeight": 559,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

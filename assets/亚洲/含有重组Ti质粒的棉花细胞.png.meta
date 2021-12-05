@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "08e0b414-fb05-4d9e-93f8-ee851c1a6131",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "含有重组Ti质粒的棉花细胞": {
+      "ver": "1.0.3",
+      "uuid": "092469c8-4b4b-4348-8f3a-d5529d63b265",
+      "rawTextureUuid": "08e0b414-fb05-4d9e-93f8-ee851c1a6131",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -17.5,
+      "offsetY": 30,
+      "trimX": 42,
+      "trimY": 165,
+      "width": 281,
+      "height": 169,
+      "rawWidth": 400,
+      "rawHeight": 559,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

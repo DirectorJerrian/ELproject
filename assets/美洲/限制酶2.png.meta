@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "d638871e-1eb6-49f6-8007-7ac83716e315",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "限制酶2": {
+      "ver": "1.0.3",
+      "uuid": "bd25daf8-20ba-464b-9f5b-705e9d745e32",
+      "rawTextureUuid": "d638871e-1eb6-49f6-8007-7ac83716e315",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -147,
+      "offsetY": 36.5,
+      "trimX": 121,
+      "trimY": 448,
+      "width": 536,
+      "height": 531,
+      "rawWidth": 1072,
+      "rawHeight": 1500,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "03408119-c36b-4e04-b7b5-90d1b3c25c0a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "基因表达载体": {
+      "ver": "1.0.3",
+      "uuid": "ea3beabf-72b8-410c-b569-642fa2f20a0d",
+      "rawTextureUuid": "03408119-c36b-4e04-b7b5-90d1b3c25c0a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 17,
+      "offsetY": 11.5,
+      "trimX": 285,
+      "trimY": 481,
+      "width": 536,
+      "height": 515,
+      "rawWidth": 1072,
+      "rawHeight": 1500,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

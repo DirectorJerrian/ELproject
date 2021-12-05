@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "41c58f6b-8758-47bc-8d46-16e9b535a2a1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "亚洲剧情": {
+      "ver": "1.0.3",
+      "uuid": "cc8e4a2f-f3eb-4b8a-959b-5aa30fd39060",
+      "rawTextureUuid": "41c58f6b-8758-47bc-8d46-16e9b535a2a1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1076,
+      "height": 650,
+      "rawWidth": 1076,
+      "rawHeight": 650,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

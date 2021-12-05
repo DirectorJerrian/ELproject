@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "660f1d52-6a7b-4a0a-b2e7-77859b5407a5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "胰岛素mRNA": {
+      "ver": "1.0.3",
+      "uuid": "fed06b45-5a7e-4ff0-a120-517f7e4dcc6b",
+      "rawTextureUuid": "660f1d52-6a7b-4a0a-b2e7-77859b5407a5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2.5,
+      "offsetY": -27,
+      "trimX": 12,
+      "trimY": 196,
+      "width": 281,
+      "height": 81,
+      "rawWidth": 300,
+      "rawHeight": 419,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

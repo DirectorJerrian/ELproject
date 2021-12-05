@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "4174e957-32c1-4095-9c90-1fa7531ff86f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "富铁牛奶生产过程": {
+      "ver": "1.0.3",
+      "uuid": "89ccde94-fa3e-4b51-89dc-7db6f91ef4fc",
+      "rawTextureUuid": "4174e957-32c1-4095-9c90-1fa7531ff86f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 477,
+      "height": 300,
+      "rawWidth": 477,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

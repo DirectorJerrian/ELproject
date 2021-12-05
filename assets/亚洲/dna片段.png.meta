@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "b91881c0-389e-41d7-bc7d-a2d6bd4ea164",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "dna片段": {
+      "ver": "1.0.3",
+      "uuid": "31fc498f-cc92-4a56-883b-b37e9b51d07f",
+      "rawTextureUuid": "b91881c0-389e-41d7-bc7d-a2d6bd4ea164",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -12,
+      "offsetY": -9.5,
+      "trimX": 157,
+      "trimY": 40,
+      "width": 62,
+      "height": 339,
+      "rawWidth": 400,
+      "rawHeight": 400,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

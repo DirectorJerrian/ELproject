@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "7a478c51-870e-4253-9c01-dbaa89808120",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "生产乳汁": {
+      "ver": "1.0.3",
+      "uuid": "364b4979-c865-4402-868f-f7d1d46951ce",
+      "rawTextureUuid": "7a478c51-870e-4253-9c01-dbaa89808120",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -7.5,
+      "offsetY": 1.5,
+      "trimX": 90,
+      "trimY": 150,
+      "width": 405,
+      "height": 97,
+      "rawWidth": 600,
+      "rawHeight": 400,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

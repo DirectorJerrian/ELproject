@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "869aaab0-686c-4b26-8361-a87057f46ca9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Bt毒蛋白基因": {
+      "ver": "1.0.3",
+      "uuid": "a1a9ac1a-3689-4092-b899-813f3a5337cf",
+      "rawTextureUuid": "869aaab0-686c-4b26-8361-a87057f46ca9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -10.5,
+      "trimX": 10,
+      "trimY": 132,
+      "width": 281,
+      "height": 57,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

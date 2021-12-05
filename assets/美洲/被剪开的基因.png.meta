@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "07f40968-6ebc-45dd-9d4c-dc174a202866",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "被剪开的基因": {
+      "ver": "1.0.3",
+      "uuid": "1c4383d8-8fb0-4568-b248-bfbd37048a7d",
+      "rawTextureUuid": "07f40968-6ebc-45dd-9d4c-dc174a202866",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -7.5,
+      "offsetY": -19,
+      "trimX": 52,
+      "trimY": 266,
+      "width": 281,
+      "height": 65,
+      "rawWidth": 400,
+      "rawHeight": 559,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

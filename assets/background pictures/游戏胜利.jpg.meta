@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "d8b0e503-efd7-462a-9441-bd9e9b8c2353",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "游戏胜利": {
+      "ver": "1.0.3",
+      "uuid": "c17509ae-c648-41cb-a399-519f008b0998",
+      "rawTextureUuid": "d8b0e503-efd7-462a-9441-bd9e9b8c2353",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 800,
+      "height": 625,
+      "rawWidth": 800,
+      "rawHeight": 625,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

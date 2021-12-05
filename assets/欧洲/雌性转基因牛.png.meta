@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "10d0d62f-2ce6-4b5b-8812-e806c34a3768",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "雌性转基因牛": {
+      "ver": "1.0.3",
+      "uuid": "97946a63-d4e2-4d15-b07f-8f56dd43a189",
+      "rawTextureUuid": "10d0d62f-2ce6-4b5b-8812-e806c34a3768",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 8.5,
+      "offsetY": 27,
+      "trimX": 68,
+      "trimY": 148,
+      "width": 281,
+      "height": 209,
+      "rawWidth": 400,
+      "rawHeight": 559,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
