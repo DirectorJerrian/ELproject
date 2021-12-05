@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "胰岛素生产过程",
+    "texture": "d51058e1-d259-4a94-99ee-20c73fbb113d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      452,
+      326
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      452,
+      326
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

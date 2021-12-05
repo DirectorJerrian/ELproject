@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "胰岛素mRNA",
+    "texture": "660f1d52-6a7b-4a0a-b2e7-77859b5407a5",
+    "atlas": "",
+    "rect": [
+      12,
+      196,
+      281,
+      81
+    ],
+    "offset": [
+      2.5,
+      -27
+    ],
+    "originalSize": [
+      300,
+      419
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

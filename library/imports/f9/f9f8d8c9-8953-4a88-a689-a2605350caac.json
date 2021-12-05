@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "被切开的质粒",
+    "texture": "6cedd7cf-1cfb-4491-abcb-4e6b5ee6afb8",
+    "atlas": "",
+    "rect": [
+      54,
+      104,
+      281,
+      287
+    ],
+    "offset": [
+      -5.5,
+      32
+    ],
+    "originalSize": [
+      400,
+      559
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

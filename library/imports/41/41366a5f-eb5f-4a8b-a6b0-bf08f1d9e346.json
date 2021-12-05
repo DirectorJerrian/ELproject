@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "代孕牛",
+    "texture": "730ce03f-1771-4012-bf9d-0bb83cc6bdad",
+    "atlas": "",
+    "rect": [
+      64,
+      148,
+      281,
+      215
+    ],
+    "offset": [
+      4.5,
+      24
+    ],
+    "originalSize": [
+      400,
+      559
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

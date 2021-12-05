@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "亚洲剧情",
+    "texture": "41c58f6b-8758-47bc-8d46-16e9b535a2a1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1076,
+      650
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1076,
+      650
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

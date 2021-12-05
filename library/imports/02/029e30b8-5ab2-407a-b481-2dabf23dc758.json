@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "大肠杆菌",
+    "texture": "3d33beea-b5e4-4004-b04f-282213f9d6b3",
+    "atlas": "",
+    "rect": [
+      9,
+      140,
+      281,
+      123
+    ],
+    "offset": [
+      -0.5,
+      8
+    ],
+    "originalSize": [
+      300,
+      419
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

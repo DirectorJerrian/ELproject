@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "受体细胞",
+    "texture": "0ff0cc46-5b0c-4a66-8d97-81ae95b95d79",
+    "atlas": "",
+    "rect": [
+      13,
+      156,
+      281,
+      117
+    ],
+    "offset": [
+      3.5,
+      -5
+    ],
+    "originalSize": [
+      300,
+      419
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

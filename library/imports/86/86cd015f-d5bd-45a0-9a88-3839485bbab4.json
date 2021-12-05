@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "组织培养",
+    "texture": "8a56aea8-75b4-4633-ae8c-e1873712489c",
+    "atlas": "",
+    "rect": [
+      90,
+      150,
+      405,
+      97
+    ],
+    "offset": [
+      -7.5,
+      1.5
+    ],
+    "originalSize": [
+      600,
+      400
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

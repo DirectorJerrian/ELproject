@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "受精卵",
+    "texture": "02dc52c3-d803-4cd9-a9b3-5cdf6200c30f",
+    "atlas": "",
+    "rect": [
+      42,
+      133,
+      281,
+      271
+    ],
+    "offset": [
+      -17.5,
+      11
+    ],
+    "originalSize": [
+      400,
+      559
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

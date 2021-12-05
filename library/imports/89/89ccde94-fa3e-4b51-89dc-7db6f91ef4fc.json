@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "富铁牛奶生产过程",
+    "texture": "4174e957-32c1-4095-9c90-1fa7531ff86f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      477,
+      300
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      477,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

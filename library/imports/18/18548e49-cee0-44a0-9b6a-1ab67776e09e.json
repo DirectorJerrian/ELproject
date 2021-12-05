@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "质粒",
+    "texture": "a42366fd-8a26-45b1-b362-174a9ed7a091",
+    "atlas": "",
+    "rect": [
+      12,
+      67,
+      281,
+      281
+    ],
+    "offset": [
+      2.5,
+      2
+    ],
+    "originalSize": [
+      300,
+      419
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

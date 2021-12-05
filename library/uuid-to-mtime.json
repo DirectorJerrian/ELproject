@@ -1,0 +1,1347 @@
+{
+  "f8e6b000-5643-4b86-9080-aa680ce1f599": {
+    "asset": 1554816331027,
+    "meta": 1552197698000,
+    "relativePath": "image"
+  },
+  "fc09f9bd-2cce-4605-b630-8145ef809ed6": {
+    "asset": 1554816157396,
+    "meta": 1552197698000,
+    "relativePath": "misc"
+  },
+  "f6e6dd15-71d1-4ffe-ace7-24fd39942c05": {
+    "asset": 1554816332191,
+    "meta": 1552197698000,
+    "relativePath": "obsolete"
+  },
+  "f743d2b6-b7ea-4c14-a55b-547ed4d0a045": {
+    "asset": 1554816332216,
+    "meta": 1552197698000,
+    "relativePath": "particle"
+  },
+  "ae6c6c98-11e4-452f-8758-75f5c6a56e83": {
+    "asset": 1554816331053,
+    "meta": 1552197698000,
+    "relativePath": "prefab"
+  },
+  "ba9630ef-1917-48f0-89a3-18575f2a58f4": {
+    "asset": 1559043863310,
+    "meta": 1556970611476,
+    "relativePath": "background pictures"
+  },
+  "471f5e16-aa48-4894-9d1a-dc17a5f5cf41": {
+    "asset": 1559013492991,
+    "meta": 1559013493031,
+    "relativePath": "开始界面.fire"
+  },
+  "e4be9a5b-b44a-4f8e-b867-e571472289e1": {
+    "asset": 1558976888726,
+    "meta": 1558976888771,
+    "relativePath": "世界地图界面.fire"
+  },
+  "419f6982-8024-4d8d-a668-e7ee43de2db4": {
+    "asset": 1559027394997,
+    "meta": 1557845705612,
+    "relativePath": "Scripts"
+  },
+  "fce6ba48-9d95-4283-a4bf-068ae34ade11": {
+    "asset": 1558255421888,
+    "meta": 1558255421936,
+    "relativePath": "background pictures\\地图.jpg"
+  },
+  "210edff5-27ae-4138-8f7d-5cb9e31aae15": {
+    "asset": 1558255432947,
+    "meta": 1558255432975,
+    "relativePath": "background pictures\\开始界面.jpg"
+  },
+  "d4e24ebe-9a96-40c5-ac4f-dbc93ed95584": {
+    "asset": 1558256261528,
+    "meta": 1558256261571,
+    "relativePath": "background pictures\\开始游戏按钮.png"
+  },
+  "d1177494-3eab-4163-8976-cf3b5be9c8a2": {
+    "asset": 1558256780925,
+    "meta": 1558256780967,
+    "relativePath": "background pictures\\退出游戏按钮.png"
+  },
+  "814c3340-176b-4ac4-bc75-fe600b2a7426": {
+    "asset": 1558257043928,
+    "meta": 1558257043968,
+    "relativePath": "background pictures\\北美大陆.png"
+  },
+  "e9014cd8-f438-4707-b2c8-82c17ac97230": {
+    "asset": 1558257046298,
+    "meta": 1558257046329,
+    "relativePath": "background pictures\\大洋洲.png"
+  },
+  "833f2592-e7a8-4cab-be55-66c67ac60610": {
+    "asset": 1558257049923,
+    "meta": 1558257049954,
+    "relativePath": "background pictures\\非洲大陆.png"
+  },
+  "f51003d2-301b-434c-b41f-ecd2433c94f3": {
+    "asset": 1558257053304,
+    "meta": 1558257053332,
+    "relativePath": "background pictures\\欧洲大陆.png"
+  },
+  "9f3d64b1-b725-49e7-b018-2e15799b5028": {
+    "asset": 1558257056730,
+    "meta": 1558257056754,
+    "relativePath": "background pictures\\亚洲大陆.png"
+  },
+  "651cc8b5-2753-4777-9575-2085e416e4d4": {
+    "asset": 1559028651797,
+    "meta": 1559028651832,
+    "relativePath": "亚洲\\亚洲操作室.fire"
+  },
+  "76631877-cd74-49ee-acee-1881033622e2": {
+    "asset": 1558974577558,
+    "meta": 1558974577594,
+    "relativePath": "非洲\\非洲展览厅1.fire"
+  },
+  "2e2ce42a-0c6f-4017-a9f7-40c4a8f34b43": {
+    "asset": 1559028665128,
+    "meta": 1559028665182,
+    "relativePath": "欧洲\\欧洲操作室.fire"
+  },
+  "7cfd12a6-ccc4-408b-a4a1-aff9e7502547": {
+    "asset": 1559040140190,
+    "meta": 1559040140263,
+    "relativePath": "美洲\\北美操作室.fire"
+  },
+  "65ff0354-4312-477e-be1c-70d11f87bc2f": {
+    "asset": 1558977104131,
+    "meta": 1558977104156,
+    "relativePath": "大洋洲\\大洋洲展览厅导引.fire"
+  },
+  "aafab85e-60e8-420d-ab45-67939c341ad5": {
+    "asset": 1558268271162,
+    "meta": 1558268274921,
+    "relativePath": "Scripts\\EndButton.js"
+  },
+  "68e29d79-759c-4501-9e36-645f4f1f83be": {
+    "asset": 1558349629199,
+    "meta": 1558349629251,
+    "relativePath": "background pictures\\实验室界面.jpg"
+  },
+  "a901d463-6157-4fc3-b1f3-73158e7fa154": {
+    "asset": 1559020205708,
+    "meta": 1558448272628,
+    "relativePath": "美洲"
+  },
+  "660271d7-d303-4f00-a91d-016bcdbc279c": {
+    "asset": 1558527576125,
+    "meta": 1558527576192,
+    "relativePath": "background pictures\\返回主页.png"
+  },
+  "37f6dea2-9c93-4640-866d-b81ead745f84": {
+    "asset": 1558529081430,
+    "meta": 1558529081488,
+    "relativePath": "background pictures\\游戏帮助.png"
+  },
+  "d51058e1-d259-4a94-99ee-20c73fbb113d": {
+    "asset": 1558540345866,
+    "meta": 1558540345914,
+    "relativePath": "美洲\\胰岛素生产过程.png"
+  },
+  "7785198f-abd3-4dbf-acda-daeec497ab99": {
+    "asset": 1559020312265,
+    "meta": 1558540622258,
+    "relativePath": "亚洲"
+  },
+  "aff03f61-ec23-4aa5-a894-54e93d0106f8": {
+    "asset": 1558966072847,
+    "meta": 1558540642771,
+    "relativePath": "大洋洲"
+  },
+  "bf7a682a-79d3-48fd-9546-051f850378d2": {
+    "asset": 1558946357197,
+    "meta": 1558540655652,
+    "relativePath": "欧洲"
+  },
+  "fcf62619-af5a-4c3a-8323-63a9177a0e26": {
+    "asset": 1559029974951,
+    "meta": 1558540667327,
+    "relativePath": "非洲"
+  },
+  "5bacb523-d449-434b-bd6d-84fe83f2f102": {
+    "asset": 1558581573483,
+    "meta": 1558581574695,
+    "relativePath": "Scripts\\NorthAmerica.js"
+  },
+  "1f904d90-e47e-4b0d-8aef-fb06d852ed0c": {
+    "asset": 1558584114013,
+    "meta": 1558584115137,
+    "relativePath": "Scripts\\StartButton.js"
+  },
+  "adf2f435-f804-41c8-b4e0-b200ef69ef0c": {
+    "asset": 1558602782392,
+    "meta": 1558602788599,
+    "relativePath": "Scripts\\Skip.js"
+  },
+  "2e2bf7a4-c281-4a90-8248-4d3fabec1b6b": {
+    "asset": 1558677864358,
+    "meta": 1558677868867,
+    "relativePath": "Scripts\\Video.js"
+  },
+  "6db3c20c-527b-4dac-8a0c-1abfee792807": {
+    "asset": 1558679002967,
+    "meta": 1558679157494,
+    "relativePath": "美洲\\美洲剧情.jpg"
+  },
+  "880d48f4-5396-4933-ba42-3956139f8b3c": {
+    "asset": 1558679498141,
+    "meta": 1558679498193,
+    "relativePath": "美洲\\人胰岛细胞.png"
+  },
+  "0ff0cc46-5b0c-4a66-8d97-81ae95b95d79": {
+    "asset": 1558679502438,
+    "meta": 1558679502608,
+    "relativePath": "美洲\\受体细胞.png"
+  },
+  "3d33beea-b5e4-4004-b04f-282213f9d6b3": {
+    "asset": 1558679507146,
+    "meta": 1558679507179,
+    "relativePath": "美洲\\大肠杆菌.png"
+  },
+  "13b83b78-1540-4f8f-9d47-ce39f15cd494": {
+    "asset": 1558679512237,
+    "meta": 1558679512265,
+    "relativePath": "美洲\\RNA聚合酶.png"
+  },
+  "8d652c7f-6f42-469f-b956-9a061f572499": {
+    "asset": 1558679518549,
+    "meta": 1558679518589,
+    "relativePath": "美洲\\dna连接酶.png"
+  },
+  "e683f80d-140c-4e6a-b3fa-0fcabfd58322": {
+    "asset": 1558679520776,
+    "meta": 1558679520804,
+    "relativePath": "美洲\\限制酶1.png"
+  },
+  "d638871e-1eb6-49f6-8007-7ac83716e315": {
+    "asset": 1558679522621,
+    "meta": 1558679522698,
+    "relativePath": "美洲\\限制酶2.png"
+  },
+  "660f1d52-6a7b-4a0a-b2e7-77859b5407a5": {
+    "asset": 1558679525040,
+    "meta": 1558679525137,
+    "relativePath": "美洲\\胰岛素mRNA.png"
+  },
+  "03408119-c36b-4e04-b7b5-90d1b3c25c0a": {
+    "asset": 1558679529091,
+    "meta": 1558679723851,
+    "relativePath": "美洲\\基因表达载体.png"
+  },
+  "869aaab0-686c-4b26-8361-a87057f46ca9": {
+    "asset": 1558680175866,
+    "meta": 1558680175920,
+    "relativePath": "亚洲\\Bt毒蛋白基因.png"
+  },
+  "7bea4cab-96b8-4563-b384-0a907a0a9ea8": {
+    "asset": 1558680177827,
+    "meta": 1558680177855,
+    "relativePath": "亚洲\\dna聚合酶.png"
+  },
+  "e73c0441-5bfc-482b-b32f-2c2362ac55ea": {
+    "asset": 1558680179658,
+    "meta": 1558680179719,
+    "relativePath": "亚洲\\dna连接酶.png"
+  },
+  "b91881c0-389e-41d7-bc7d-a2d6bd4ea164": {
+    "asset": 1558680182030,
+    "meta": 1558680182063,
+    "relativePath": "亚洲\\dna片段.png"
+  },
+  "08e0b414-fb05-4d9e-93f8-ee851c1a6131": {
+    "asset": 1558680184454,
+    "meta": 1558680184534,
+    "relativePath": "亚洲\\含有重组Ti质粒的棉花细胞.png"
+  },
+  "26d6b45d-0bfa-4722-af93-0f68389d43bd": {
+    "asset": 1558680186803,
+    "meta": 1558680186831,
+    "relativePath": "亚洲\\含有重组Ti质粒的农杆菌.png"
+  },
+  "b1e617dc-d085-41e4-9952-0e73bfd3c6fc": {
+    "asset": 1558680189643,
+    "meta": 1558680189672,
+    "relativePath": "亚洲\\基因表达载体.png"
+  },
+  "d2122509-ce3e-45bb-b21a-f9352e44a42d": {
+    "asset": 1558680192182,
+    "meta": 1558680192215,
+    "relativePath": "亚洲\\棉花.png"
+  },
+  "6ebec2b8-769a-4683-bf0b-3018a4833f63": {
+    "asset": 1558680193932,
+    "meta": 1558680193966,
+    "relativePath": "亚洲\\棉花细胞.png"
+  },
+  "a6d04ad2-d3a2-4127-b831-118597ada06a": {
+    "asset": 1558680195710,
+    "meta": 1558680195742,
+    "relativePath": "亚洲\\苏云金芽孢杆菌.png"
+  },
+  "a4723a21-727f-4864-a62f-46738a57bec1": {
+    "asset": 1558680197505,
+    "meta": 1558680197538,
+    "relativePath": "亚洲\\限制酶I.png"
+  },
+  "a5fe0379-d734-4efc-91cb-0c3a5a3407d8": {
+    "asset": 1558680199129,
+    "meta": 1558680199198,
+    "relativePath": "亚洲\\质粒.png"
+  },
+  "41c58f6b-8758-47bc-8d46-16e9b535a2a1": {
+    "asset": 1558680201194,
+    "meta": 1558680201218,
+    "relativePath": "亚洲\\亚洲剧情.jpg"
+  },
+  "a1f729e5-1ff2-43de-abae-1e57a2115cea": {
+    "asset": 1558979498752,
+    "meta": 1558979498783,
+    "relativePath": "亚洲\\亚洲剧情.fire"
+  },
+  "d2187367-3bee-4832-8227-8638baa65453": {
+    "asset": 1558681506076,
+    "meta": 1558681506108,
+    "relativePath": "亚洲\\抗虫棉培育过程.jpg"
+  },
+  "f4516c13-8bc3-46fc-a6dc-51dd919443b7": {
+    "asset": 1558685395129,
+    "meta": 1558685398190,
+    "relativePath": "Scripts\\NA人胰岛细胞.js"
+  },
+  "bc0c9fba-5dac-49e9-a591-9b66f8a3318c": {
+    "asset": 1558685469064,
+    "meta": 1558685470408,
+    "relativePath": "Scripts\\NA大肠杆菌细胞.js"
+  },
+  "43909f80-2528-4358-b5cc-5983566a506f": {
+    "asset": 1558685632723,
+    "meta": 1558685634090,
+    "relativePath": "Scripts\\NA限制酶I.js"
+  },
+  "44cd04f2-a250-41e9-869b-164f0aa8d171": {
+    "asset": 1558685653148,
+    "meta": 1558685654383,
+    "relativePath": "Scripts\\NA限制酶II.js"
+  },
+  "f08f5d89-1415-472c-9b68-0d70f2bf3271": {
+    "asset": 1558686015257,
+    "meta": 1558686036820,
+    "relativePath": "Scripts\\NA被剪开的质粒.js"
+  },
+  "cab6e8b0-513a-4067-811e-c5882c5fdb0a": {
+    "asset": 1558691775505,
+    "meta": 1558691805020,
+    "relativePath": "Scripts\\NA胰岛素mNRA.js"
+  },
+  "ca763ae8-caa1-4c6f-811f-1adfed8d7d61": {
+    "asset": 1558692472012,
+    "meta": 1558692473918,
+    "relativePath": "Scripts\\NA逆转录酶.js"
+  },
+  "0bd3bd4c-ad60-4948-bda0-e5f53e031678": {
+    "asset": 1558722799432,
+    "meta": 1558722800840,
+    "relativePath": "Scripts\\Asia.js"
+  },
+  "6eccecfb-7e84-4a67-a93c-3aa2574b66c0": {
+    "asset": 1558723190849,
+    "meta": 1558723192295,
+    "relativePath": "Scripts\\As苏云金芽孢杆菌.js"
+  },
+  "ed4035f4-2832-49db-8f55-148679c4f481": {
+    "asset": 1558723369084,
+    "meta": 1558723376402,
+    "relativePath": "Scripts\\AsDNA片段.js"
+  },
+  "7b2a6c3c-e7b7-4d9f-b7c0-8931eeeb2969": {
+    "asset": 1558761447230,
+    "meta": 1558761447289,
+    "relativePath": "background pictures\\片头动画.mp4"
+  },
+  "53c734d2-2e31-4981-8a85-63fac7fb2872": {
+    "asset": 1559040502692,
+    "meta": 1558762244099,
+    "relativePath": "audio"
+  },
+  "5c105675-9fe4-49f6-89ae-0e194431211e": {
+    "asset": 1558762284268,
+    "meta": 1558762307029,
+    "relativePath": "audio\\bingo！.mp3"
+  },
+  "eaab4c8e-a24f-45ae-bf4b-7e932c9c735d": {
+    "asset": 1558766235069,
+    "meta": 1558766235145,
+    "relativePath": "美洲\\逆转录酶.png"
+  },
+  "a42366fd-8a26-45b1-b362-174a9ed7a091": {
+    "asset": 1558766291464,
+    "meta": 1558766291500,
+    "relativePath": "美洲\\质粒.png"
+  },
+  "125af643-e389-4315-8b2c-c1b74a4f8393": {
+    "asset": 1558766317274,
+    "meta": 1558766317451,
+    "relativePath": "美洲\\剪开的质粒.png"
+  },
+  "1a54effe-a073-46de-92fe-9249faab0878": {
+    "asset": 1558766864092,
+    "meta": 1558766864175,
+    "relativePath": "亚洲\\被剪开的质粒.png"
+  },
+  "d8b0e503-efd7-462a-9441-bd9e9b8c2353": {
+    "asset": 1558767565532,
+    "meta": 1558767565558,
+    "relativePath": "background pictures\\游戏胜利.jpg"
+  },
+  "aa66f9fc-ea82-4d64-bd9c-cc29b2722eea": {
+    "asset": 1559050988510,
+    "meta": 1559050988570,
+    "relativePath": "游戏胜利.fire"
+  },
+  "9e7467d1-aa68-4c9f-af41-56c39a94f2a9": {
+    "asset": 1558767799682,
+    "meta": 1558767799744,
+    "relativePath": "background pictures\\返回地图.png"
+  },
+  "07f40968-6ebc-45dd-9d4c-dc174a202866": {
+    "asset": 1558769307128,
+    "meta": 1558769307192,
+    "relativePath": "美洲\\被剪开的基因.png"
+  },
+  "7952cc43-3bf1-4464-a891-f5c00ba50b2c": {
+    "asset": 1558769312353,
+    "meta": 1558769312393,
+    "relativePath": "美洲\\胰岛素基因片段.png"
+  },
+  "26cacb67-d7c7-4aca-948d-fc3346889654": {
+    "asset": 1558770546309,
+    "meta": 1558770546891,
+    "relativePath": "audio\\思考(E Blakeley).mp3"
+  },
+  "7856c41b-c609-45d1-96dd-e01d6d81af4c": {
+    "asset": 1558770546311,
+    "meta": 1558770546896,
+    "relativePath": "audio\\快乐的时光.mp3"
+  },
+  "dbd7aeed-f8b9-4475-aa50-c1b560107c85": {
+    "asset": 1558770546320,
+    "meta": 1558770546924,
+    "relativePath": "audio\\公主的梳妆台.mp3"
+  },
+  "6e83cf53-02d6-4771-98e4-8a84f2d4ff2e": {
+    "asset": 1558770546320,
+    "meta": 1558770546930,
+    "relativePath": "audio\\私家侦探(A Premjee).mp3"
+  },
+  "7617957f-11e2-406c-9a87-8034949cc419": {
+    "asset": 1558770546323,
+    "meta": 1558770546959,
+    "relativePath": "audio\\动力与成功.mp3"
+  },
+  "84be5fa7-b4be-4636-9016-1cd1b4b353f0": {
+    "asset": 1558770596614,
+    "meta": 1558770596674,
+    "relativePath": "audio\\试验成功.mp3"
+  },
+  "81747cad-6842-43f5-89f7-f903a800ab63": {
+    "asset": 1559026615540,
+    "meta": 1559026615652,
+    "relativePath": "美洲\\美洲剧情.fire"
+  },
+  "b2bd8698-3b16-4f7a-a8a7-30bf5c926db3": {
+    "asset": 1558771170366,
+    "meta": 1558771171841,
+    "relativePath": "Scripts\\NorthAmerica2.js"
+  },
+  "2a86688f-f014-4ad5-a306-d362b47f2b0e": {
+    "asset": 1558771506631,
+    "meta": 1558771506705,
+    "relativePath": "audio\\清晨之约.mp3"
+  },
+  "8c66a25f-281c-4fa8-aadc-6e51a6d175e8": {
+    "asset": 1558771518165,
+    "meta": 1558771518228,
+    "relativePath": "audio\\北部雪域.mp3"
+  },
+  "4c1c1b38-6bb5-4c3b-a866-5dd94775860f": {
+    "asset": 1558771518170,
+    "meta": 1558771518244,
+    "relativePath": "audio\\躲在云朵里的阳光.mp3"
+  },
+  "95bfeef6-781a-4eb8-b460-53b9cae6e505": {
+    "asset": 1558771650073,
+    "meta": 1558771653569,
+    "relativePath": "Scripts\\Home.js"
+  },
+  "9fe785dc-2bcd-461f-a180-ee8d35fdcf74": {
+    "asset": 1558772527337,
+    "meta": 1558772559743,
+    "relativePath": "Scripts\\NARNA聚合酶.js"
+  },
+  "5617f4a8-663d-4d8c-9bce-44d93913c2f8": {
+    "asset": 1558772595009,
+    "meta": 1558772597284,
+    "relativePath": "Scripts\\AsDNA聚合酶.js"
+  },
+  "ced35261-76f3-4865-98f7-8c261424b7f0": {
+    "asset": 1558772615974,
+    "meta": 1558772617465,
+    "relativePath": "Scripts\\AsDNA连接酶.js"
+  },
+  "ecd33dea-2b7e-4134-bc95-4e87abdd5aeb": {
+    "asset": 1558772662130,
+    "meta": 1558772664307,
+    "relativePath": "Scripts\\NADNA连接酶.js"
+  },
+  "bfac8d2b-77c9-49b0-882d-524e9601c6b5": {
+    "asset": 1558773010789,
+    "meta": 1558773012660,
+    "relativePath": "Scripts\\NA碱与SDS操作.js"
+  },
+  "cf80e957-c6cb-4018-a954-5f23f7ac5734": {
+    "asset": 1558773932077,
+    "meta": 1558773935149,
+    "relativePath": "Scripts\\NA受体细胞.js"
+  },
+  "dcba9ae8-04e7-4c1e-9d9e-7c48be359146": {
+    "asset": 1558774387619,
+    "meta": 1558774390018,
+    "relativePath": "Scripts\\As组织培养.js"
+  },
+  "8f0f0500-1242-4e11-a8a1-55107c305195": {
+    "asset": 1558774791077,
+    "meta": 1558774794437,
+    "relativePath": "Scripts\\As棉花细胞.js"
+  },
+  "2a43e9b3-24a7-40d2-82b1-aa7389d7120e": {
+    "asset": 1558985352482,
+    "meta": 1558985352545,
+    "relativePath": "欧洲\\欧洲剧情.fire"
+  },
+  "6e6926a1-72f3-4427-93b2-f617e8bd69b4": {
+    "asset": 1558798570981,
+    "meta": 1558798571018,
+    "relativePath": "欧洲\\界面.jpg"
+  },
+  "561792d6-11cc-40b4-b715-23ec8bc5760f": {
+    "asset": 1558798923621,
+    "meta": 1558798923709,
+    "relativePath": "欧洲\\DNA连接酶.png"
+  },
+  "825a0985-7aa1-4cf0-b876-79ee798419e8": {
+    "asset": 1558798926495,
+    "meta": 1558798926540,
+    "relativePath": "欧洲\\被剪开的人乳铁蛋白基因.png"
+  },
+  "6cedd7cf-1cfb-4491-abcb-4e6b5ee6afb8": {
+    "asset": 1558798928985,
+    "meta": 1558798929018,
+    "relativePath": "欧洲\\被切开的质粒.png"
+  },
+  "730ce03f-1771-4012-bf9d-0bb83cc6bdad": {
+    "asset": 1558798954842,
+    "meta": 1558798954881,
+    "relativePath": "欧洲\\代孕牛.png"
+  },
+  "6b542373-d2dc-4bc6-b00f-95ae00073f57": {
+    "asset": 1558798958421,
+    "meta": 1558798958453,
+    "relativePath": "欧洲\\启动子.png"
+  },
+  "3976c98a-09dc-4715-87b7-c8ae1350104c": {
+    "asset": 1558798960351,
+    "meta": 1558798960396,
+    "relativePath": "欧洲\\人乳铁蛋白基因.png"
+  },
+  "02dc52c3-d803-4cd9-a9b3-5cdf6200c30f": {
+    "asset": 1558798962249,
+    "meta": 1558798962289,
+    "relativePath": "欧洲\\受精卵.png"
+  },
+  "56f18ce7-a83f-43a4-8625-d7e705c9f7b5": {
+    "asset": 1558798964246,
+    "meta": 1558798964280,
+    "relativePath": "欧洲\\限制酶1.png"
+  },
+  "1226dfa7-00bf-471d-881b-624a6288eaae": {
+    "asset": 1558798966302,
+    "meta": 1558798966336,
+    "relativePath": "欧洲\\限制酶2.png"
+  },
+  "7215fa7e-a55c-4af9-baa3-06e1d7730706": {
+    "asset": 1558798968324,
+    "meta": 1558798968357,
+    "relativePath": "欧洲\\早期胚胎.png"
+  },
+  "cb0f2e77-5c22-4a71-9d54-7341cf8f850a": {
+    "asset": 1558798970319,
+    "meta": 1558798970354,
+    "relativePath": "欧洲\\质粒.png"
+  },
+  "97aba65f-d92a-4316-9790-d3e21580a92b": {
+    "asset": 1558798972124,
+    "meta": 1558798972152,
+    "relativePath": "欧洲\\质粒+启动子.png"
+  },
+  "68e288c0-0e4a-4bb0-b4a8-1434e47efb16": {
+    "asset": 1558800204305,
+    "meta": 1558800204363,
+    "relativePath": "欧洲\\表达载体.png"
+  },
+  "10d0d62f-2ce6-4b5b-8812-e806c34a3768": {
+    "asset": 1558800206596,
+    "meta": 1558800206639,
+    "relativePath": "欧洲\\雌性转基因牛.png"
+  },
+  "4174e957-32c1-4095-9c90-1fa7531ff86f": {
+    "asset": 1558800322036,
+    "meta": 1558800322073,
+    "relativePath": "欧洲\\富铁牛奶生产过程.jpg"
+  },
+  "dad8722d-4a9d-4a67-9355-d58bee039cf4": {
+    "asset": 1558845395876,
+    "meta": 1558845397845,
+    "relativePath": "Scripts\\Europe.js"
+  },
+  "559f8a44-ca4c-4c09-8822-7667588f4c33": {
+    "asset": 1558847118233,
+    "meta": 1558847123768,
+    "relativePath": "Scripts\\Europe2.js"
+  },
+  "4c8aeda3-668d-4889-a7d1-f49f04b0c90e": {
+    "asset": 1558847167324,
+    "meta": 1558847171208,
+    "relativePath": "Scripts\\Europe3.js"
+  },
+  "6ef7213a-4877-4aa3-addb-16a6b3513ee8": {
+    "asset": 1558848290226,
+    "meta": 1558848304619,
+    "relativePath": "Scripts\\Eu质粒.js"
+  },
+  "bad9ef0d-7fd3-4529-a685-fa5c336a6b6c": {
+    "asset": 1558848416301,
+    "meta": 1558848425138,
+    "relativePath": "Scripts\\Eu限制酶.js"
+  },
+  "93bc06b9-251e-4a2c-98af-7abd0f4ec651": {
+    "asset": 1558848631161,
+    "meta": 1558848632536,
+    "relativePath": "Scripts\\EuDNA连接酶.js"
+  },
+  "ed57ba2e-7da0-4f28-be47-7de70545e1a1": {
+    "asset": 1558850802036,
+    "meta": 1558850803810,
+    "relativePath": "Scripts\\Eu被剪开的质粒.js"
+  },
+  "eb0071a6-d72e-4775-ae12-bb0eb968851e": {
+    "asset": 1558851606584,
+    "meta": 1558851619753,
+    "relativePath": "Scripts\\游戏帮助.js"
+  },
+  "cb2bd51a-54c7-4aa8-8f27-8a4f2f1fb994": {
+    "asset": 1558852729526,
+    "meta": 1558852734057,
+    "relativePath": "Scripts\\帮助按钮.js"
+  },
+  "9fd10a29-9f63-4a7d-aff7-2bb5a3e4f14d": {
+    "asset": 1558852861380,
+    "meta": 1558852863167,
+    "relativePath": "Scripts\\返回.js"
+  },
+  "22d118b8-97e1-451b-b708-29a6a6a41d49": {
+    "asset": 1558854694780,
+    "meta": 1558854697682,
+    "relativePath": "Scripts\\AsCanvas.js"
+  },
+  "90ea9d4d-b9a5-4623-9ba0-53ae31facf4a": {
+    "asset": 1558774104843,
+    "meta": 1558862838710,
+    "relativePath": "Scripts\\Asia3.js"
+  },
+  "31305696-c794-43cb-9a56-7bd0833d5ba4": {
+    "asset": 1558774566983,
+    "meta": 1558862838733,
+    "relativePath": "Scripts\\NACanvas.js"
+  },
+  "d1638ef0-07e8-4844-864e-443b0fde41c0": {
+    "asset": 1558771132623,
+    "meta": 1558862838748,
+    "relativePath": "Scripts\\NorthAmerica3.js"
+  },
+  "f1c1bb52-d290-4638-9679-813cfafac994": {
+    "asset": 1558800378472,
+    "meta": 1558862838783,
+    "relativePath": "欧洲\\欧洲游戏帮助.fire"
+  },
+  "a6748e62-7de5-44e5-aae2-23bd9ba5804d": {
+    "asset": 1558774192577,
+    "meta": 1558862838791,
+    "relativePath": "亚洲\\亚洲游戏帮助.fire"
+  },
+  "b2cb9bf0-0047-4d4d-987c-0f577e48dd12": {
+    "asset": 1558771329528,
+    "meta": 1558862838797,
+    "relativePath": "美洲\\美洲游戏帮助.fire"
+  },
+  "7a478c51-870e-4253-9c01-dbaa89808120": {
+    "asset": 1558946357184,
+    "meta": 1558946357251,
+    "relativePath": "欧洲\\生产乳汁.png"
+  },
+  "eb3359bd-1c31-4af2-a287-ab45e4b9d58b": {
+    "asset": 1558946998845,
+    "meta": 1558946998923,
+    "relativePath": "非洲\\1.jpg"
+  },
+  "bce62091-45c5-4554-96c5-c01b7730fbab": {
+    "asset": 1558947013338,
+    "meta": 1558947013401,
+    "relativePath": "非洲\\2.jpg"
+  },
+  "97971d08-8100-4228-972e-ee622e9cfcb9": {
+    "asset": 1558947015760,
+    "meta": 1558947015829,
+    "relativePath": "非洲\\3.jpg"
+  },
+  "70cb7489-477d-40db-b95a-432455f25427": {
+    "asset": 1558947018291,
+    "meta": 1558947018323,
+    "relativePath": "非洲\\4.jpg"
+  },
+  "fb3981ca-bd46-43e9-8b3d-5974c71828b0": {
+    "asset": 1558947020783,
+    "meta": 1558947020819,
+    "relativePath": "非洲\\按钮.png"
+  },
+  "edf4f1b8-4853-4419-879e-bdcc32f1e9ed": {
+    "asset": 1558947023373,
+    "meta": 1558947023424,
+    "relativePath": "非洲\\黄框.png"
+  },
+  "260821b4-27c5-4123-b47d-2ee2bbafcfb1": {
+    "asset": 1558975476158,
+    "meta": 1558975476200,
+    "relativePath": "非洲\\非洲展览厅2.fire"
+  },
+  "92693779-53e3-4388-8880-a96a35dfa626": {
+    "asset": 1558976639590,
+    "meta": 1558976639639,
+    "relativePath": "非洲\\非洲展览厅4.fire"
+  },
+  "82993e9f-0e79-4f15-a2cb-a6f68fcdba98": {
+    "asset": 1558950051712,
+    "meta": 1558950051762,
+    "relativePath": "非洲\\下一页.png"
+  },
+  "0e7b40b1-4fde-40bb-8eea-eda0de151720": {
+    "asset": 1558962641974,
+    "meta": 1558962642179,
+    "relativePath": "大洋洲\\澳洲.jpg"
+  },
+  "f40ab05b-8400-4d6d-9441-c79bcc440057": {
+    "asset": 1558977090786,
+    "meta": 1558977090813,
+    "relativePath": "非洲\\非洲展览厅导引.fire"
+  },
+  "4f5da97e-bbfc-4300-9952-26f621fd37d6": {
+    "asset": 1558962706280,
+    "meta": 1558962706340,
+    "relativePath": "非洲\\非洲.jpg"
+  },
+  "b36fe248-bc1a-4131-a273-804c8e0a5793": {
+    "asset": 1559030274748,
+    "meta": 1559030274800,
+    "relativePath": "大洋洲\\大洋洲展览厅.fire"
+  },
+  "a26c27f1-37ad-4308-b6bb-43500009c573": {
+    "asset": 1558963158656,
+    "meta": 1558963158766,
+    "relativePath": "大洋洲\\5.jpg"
+  },
+  "04ce4018-ca20-45d8-8fb1-efbfb34bde13": {
+    "asset": 1558963196157,
+    "meta": 1558963196243,
+    "relativePath": "大洋洲\\按钮.png"
+  },
+  "f5e69338-6cb7-4a77-9430-dad43a7b0a87": {
+    "asset": 1558964773370,
+    "meta": 1558964773435,
+    "relativePath": "大洋洲\\黄框.png"
+  },
+  "a9eb82de-6b71-4554-8e1d-0331af71605e": {
+    "asset": 1558970861313,
+    "meta": 1558970862593,
+    "relativePath": "Scripts\\Eu生产乳汁.js"
+  },
+  "cd80741c-b46f-46fd-85c4-41f91b1a7691": {
+    "asset": 1558971180521,
+    "meta": 1558971183355,
+    "relativePath": "Scripts\\EuCanvas.js"
+  },
+  "22bb809a-9f38-4d19-a61f-ff2208dc336e": {
+    "asset": 1558971415824,
+    "meta": 1558971427394,
+    "relativePath": "Scripts\\Eu代孕牛.js"
+  },
+  "61eca791-006c-4672-b4f6-917656a09eca": {
+    "asset": 1558971993949,
+    "meta": 1558972006519,
+    "relativePath": "Scripts\\Africa.js"
+  },
+  "ea9e6eb6-071a-4606-b41f-c20d4d38ef37": {
+    "asset": 1558973738624,
+    "meta": 1558973744522,
+    "relativePath": "Scripts\\Af按钮.js"
+  },
+  "3fe2cd3c-3791-4d4a-a23b-e3626645c8cb": {
+    "asset": 1558974409157,
+    "meta": 1558974410307,
+    "relativePath": "Scripts\\Af简介.js"
+  },
+  "aba6ce7f-0d9d-45ee-a7e3-39c04e5a6315": {
+    "asset": 1558974555497,
+    "meta": 1558974557283,
+    "relativePath": "Scripts\\AfCanvas.js"
+  },
+  "56827a2b-ba3a-4477-bd3c-65d6d4ba62f3": {
+    "asset": 1558975020354,
+    "meta": 1558975021980,
+    "relativePath": "Scripts\\Af按钮2.js"
+  },
+  "043b0936-8a67-4ee8-8f88-97bb9ca96b75": {
+    "asset": 1558975448871,
+    "meta": 1558975450456,
+    "relativePath": "Scripts\\AfCanvas2.js"
+  },
+  "c65982c9-6574-478f-ac08-432e8a777a0b": {
+    "asset": 1558975996136,
+    "meta": 1558975996183,
+    "relativePath": "非洲\\非洲展览厅3.fire"
+  },
+  "7929d12f-c267-4dbe-b81f-93647661ea27": {
+    "asset": 1558975765264,
+    "meta": 1558975766589,
+    "relativePath": "Scripts\\AfCanvas3.js"
+  },
+  "2c50fdad-4898-4b34-8b28-2f215e5da2d2": {
+    "asset": 1558975973875,
+    "meta": 1558975975255,
+    "relativePath": "Scripts\\AfCanvas4.js"
+  },
+  "989bc522-91b6-468e-8ed9-27d806df7f69": {
+    "asset": 1558976370330,
+    "meta": 1558976374597,
+    "relativePath": "Scripts\\Af按钮3.js"
+  },
+  "5603a865-e4b9-4e01-b480-4df4e610f74d": {
+    "asset": 1558976568309,
+    "meta": 1558976579023,
+    "relativePath": "Scripts\\Af简介2.js"
+  },
+  "906e83fb-8acb-4b39-b595-f0f6515ad29f": {
+    "asset": 1558976746028,
+    "meta": 1558976755126,
+    "relativePath": "Scripts\\BackToMap.js"
+  },
+  "d62ed98b-b422-409d-9567-26b5256be11b": {
+    "asset": 1558976858592,
+    "meta": 1558976859854,
+    "relativePath": "Scripts\\Oceania.js"
+  },
+  "910798f4-3007-4cb6-a70f-6ac1296c007d": {
+    "asset": 1558977006625,
+    "meta": 1558977012589,
+    "relativePath": "Scripts\\Oceania2.js"
+  },
+  "e43ba276-040f-4a90-8e68-1d10030e4a38": {
+    "asset": 1558977176124,
+    "meta": 1558977187919,
+    "relativePath": "Scripts\\Oc简介.js"
+  },
+  "c796aba7-bed9-4c5f-85b2-b7176bcec5df": {
+    "asset": 1558977234736,
+    "meta": 1558977244056,
+    "relativePath": "Scripts\\Oc按钮.js"
+  },
+  "437951cf-58b7-4097-ad99-fab64f022fb8": {
+    "asset": 1559026582434,
+    "meta": 1558978073689,
+    "relativePath": "assistant"
+  },
+  "c7030c82-21d1-44b6-baa0-2e999a6e9c1d": {
+    "asset": 1558978670258,
+    "meta": 1558978670330,
+    "relativePath": "assistant\\亚洲欢迎.mp3"
+  },
+  "8e7f3c45-b150-468e-945e-85d588f67931": {
+    "asset": 1558978670257,
+    "meta": 1558978670339,
+    "relativePath": "assistant\\4.mp3"
+  },
+  "3c0fb7a4-8656-4bc5-8fd0-39156a76896e": {
+    "asset": 1558978670259,
+    "meta": 1558978670355,
+    "relativePath": "assistant\\3.mp3"
+  },
+  "53085e10-ae64-4005-9648-11d323d08318": {
+    "asset": 1558978670260,
+    "meta": 1558978670366,
+    "relativePath": "assistant\\5.mp3"
+  },
+  "8077dca9-083d-4815-8c33-bbaefb684637": {
+    "asset": 1558978670260,
+    "meta": 1558981413958,
+    "relativePath": "assistant\\2.mp3"
+  },
+  "b457059f-a200-4bb8-96c5-f83d060633fc": {
+    "asset": 1558978670260,
+    "meta": 1558978670394,
+    "relativePath": "assistant\\1.mp3"
+  },
+  "61d66f20-13d1-4d81-94c6-c883721fe2cd": {
+    "asset": 1558978670263,
+    "meta": 1558978670402,
+    "relativePath": "assistant\\6.mp3"
+  },
+  "3bb6d5d2-0100-45c4-adaa-7b3aece7c70f": {
+    "asset": 1558978765097,
+    "meta": 1558978772602,
+    "relativePath": "Scripts\\Asia2.js"
+  },
+  "8839bc6d-ab8a-4dcb-b9f3-80bce56254e3": {
+    "asset": 1558978980733,
+    "meta": 1558978981973,
+    "relativePath": "Scripts\\Africa2.js"
+  },
+  "eec8ef5b-692e-481c-a2af-6f6e740deace": {
+    "asset": 1558979047488,
+    "meta": 1558979049177,
+    "relativePath": "Scripts\\welcome.js"
+  },
+  "7803ed07-7802-42b5-97bb-2bc87a308059": {
+    "asset": 1558984360658,
+    "meta": 1558984363362,
+    "relativePath": "Scripts\\助手开关.js"
+  },
+  "a102c240-2d22-4acb-ab04-030bc4d00370": {
+    "asset": 1558984880694,
+    "meta": 1558984883043,
+    "relativePath": "Scripts\\As真的苏云金芽孢杆菌.js"
+  },
+  "6a91a1ca-bf3a-4d20-bb22-8e27acf07bc5": {
+    "asset": 1558984980255,
+    "meta": 1558984998617,
+    "relativePath": "Scripts\\As基因表达载体.js"
+  },
+  "1156c39f-a926-4fa0-b80f-8f95e0d38eb2": {
+    "asset": 1558984995987,
+    "meta": 1558984998619,
+    "relativePath": "Scripts\\As被剪开的质粒.js"
+  },
+  "320367f4-6cf7-49a5-9476-6272d73a7e00": {
+    "asset": 1558985037052,
+    "meta": 1558985038583,
+    "relativePath": "Scripts\\As质粒.js"
+  },
+  "9047853e-b0ee-4517-88d8-d243096ace8c": {
+    "asset": 1558985066254,
+    "meta": 1558985067607,
+    "relativePath": "Scripts\\As真的DNA片段.js"
+  },
+  "e89ebfe7-8d10-4b89-a7f0-bdf32bd003e7": {
+    "asset": 1558985296713,
+    "meta": 1558985296784,
+    "relativePath": "assistant\\南京大学仙林校区学生公寓08幢 2.mp3"
+  },
+  "34e25584-cfd0-4cbc-a70b-6691881b0b22": {
+    "asset": 1558985296712,
+    "meta": 1558985296793,
+    "relativePath": "assistant\\南京大学仙林校区学生公寓08幢 1.mp3"
+  },
+  "d2f36ccc-9b88-4975-8bbb-97e267f4fb63": {
+    "asset": 1558985296714,
+    "meta": 1558985296813,
+    "relativePath": "assistant\\南京大学仙林校区学生公寓08幢 3.mp3"
+  },
+  "9ca39a17-45f0-44de-8c9d-1f62d3c75137": {
+    "asset": 1558985296713,
+    "meta": 1558985296817,
+    "relativePath": "assistant\\南京大学仙林校区学生公寓08幢 4.mp3"
+  },
+  "228f58eb-060c-49fe-97e7-a0c3db1d1609": {
+    "asset": 1558985296714,
+    "meta": 1558985296836,
+    "relativePath": "assistant\\南京大学仙林校区学生公寓08幢 6.mp3"
+  },
+  "f82556a6-2887-462c-a90b-73980902e70d": {
+    "asset": 1558985296715,
+    "meta": 1558985296843,
+    "relativePath": "assistant\\南京大学仙林校区学生公寓08幢 5.mp3"
+  },
+  "913be9ae-fe36-438d-a44b-5b363c0a5436": {
+    "asset": 1558985296716,
+    "meta": 1558985296853,
+    "relativePath": "assistant\\欧洲欢迎.mp3"
+  },
+  "d1fb6d34-1714-44de-9773-4df016293a73": {
+    "asset": 1558985688677,
+    "meta": 1558985689927,
+    "relativePath": "Scripts\\Eu人乳铁蛋白.js"
+  },
+  "3ce555d2-1913-48c7-b3b7-4045ac4f3dc4": {
+    "asset": 1558985869649,
+    "meta": 1558985871192,
+    "relativePath": "Scripts\\Eu被剪开的人乳铁蛋白基因.js"
+  },
+  "27fb01aa-e650-427d-b2d3-2c993302d018": {
+    "asset": 1558985942147,
+    "meta": 1558985943996,
+    "relativePath": "Scripts\\Eu表达载体.js"
+  },
+  "f348b217-8c93-46d9-b0ca-09e2e3432362": {
+    "asset": 1558986006498,
+    "meta": 1558986007772,
+    "relativePath": "Scripts\\Eu早期胚胎.js"
+  },
+  "c80a0bea-95e4-48bc-8eac-6869da1c2a3f": {
+    "asset": 1559020205668,
+    "meta": 1559020205761,
+    "relativePath": "美洲\\碱与SDS操作.png"
+  },
+  "8a56aea8-75b4-4633-ae8c-e1873712489c": {
+    "asset": 1559020312259,
+    "meta": 1559020312311,
+    "relativePath": "亚洲\\组织培养.png"
+  },
+  "a631fefe-0ac3-411c-9e38-27c2891e4933": {
+    "asset": 1559026582383,
+    "meta": 1559026582458,
+    "relativePath": "assistant\\家庭 2(1).mp3"
+  },
+  "da04bc95-9a61-4ee3-9fc4-6614f3f8b58d": {
+    "asset": 1559026582387,
+    "meta": 1559026582466,
+    "relativePath": "assistant\\家庭 5(1).mp3"
+  },
+  "e438aee2-5350-43c5-b8a6-ff222e090f8e": {
+    "asset": 1559026582388,
+    "meta": 1559026582478,
+    "relativePath": "assistant\\家庭 3(1).mp3"
+  },
+  "7e721956-2cb5-43c6-bab7-affa176a12f7": {
+    "asset": 1559026582388,
+    "meta": 1559026582486,
+    "relativePath": "assistant\\美洲欢迎.mp3"
+  },
+  "dc38f079-dfc9-46a8-a9db-8ff478075fa1": {
+    "asset": 1559026582389,
+    "meta": 1559026582503,
+    "relativePath": "assistant\\家庭(1).mp3"
+  },
+  "2d33752a-4fbc-4184-8c59-0155215f1c0f": {
+    "asset": 1559026582389,
+    "meta": 1559026582513,
+    "relativePath": "assistant\\家庭 7(1).mp3"
+  },
+  "965be878-b98d-49d2-8ba7-a66efd1a9116": {
+    "asset": 1559026582389,
+    "meta": 1559026582527,
+    "relativePath": "assistant\\家庭 6(1).mp3"
+  },
+  "20330eb7-7645-4b5a-94a4-f26e84b68498": {
+    "asset": 1559026582390,
+    "meta": 1559026582534,
+    "relativePath": "assistant\\家庭 4(1).mp3"
+  },
+  "c6593568-93c3-4b3d-9f9f-616e519b3efc": {
+    "asset": 1559026945275,
+    "meta": 1559026946885,
+    "relativePath": "Scripts\\NA真的人胰岛细胞.js"
+  },
+  "6b5f34dc-deb2-44c2-9a37-82c96460aa1d": {
+    "asset": 1559027104437,
+    "meta": 1559027106109,
+    "relativePath": "Scripts\\NA真的胰岛素mRNA.js"
+  },
+  "8d486658-3f49-45eb-b18e-ad6f3d8cc5ca": {
+    "asset": 1559027298131,
+    "meta": 1559027300116,
+    "relativePath": "Scripts\\助手开关2.js"
+  },
+  "7b63f8da-850d-4ede-bd64-3007e20b7bde": {
+    "asset": 1559027457909,
+    "meta": 1559027459519,
+    "relativePath": "Scripts\\NA胰岛素基因片段.js"
+  },
+  "ff9adba2-e69d-40f1-a56b-33ce84ae5567": {
+    "asset": 1559027574612,
+    "meta": 1559027576386,
+    "relativePath": "Scripts\\NA质粒.js"
+  },
+  "00a21ac2-b78d-4095-b615-503f33dd1c34": {
+    "asset": 1559027710059,
+    "meta": 1559027715422,
+    "relativePath": "Scripts\\NA被剪开的基因.js"
+  },
+  "1a5bf21f-c609-4d84-b5ad-b68ffd670b3d": {
+    "asset": 1559027793112,
+    "meta": 1559027794689,
+    "relativePath": "Scripts\\NA基因表达载体.js"
+  },
+  "18524293-40c1-43b8-aaad-3084f1b028d5": {
+    "asset": 1559029310908,
+    "meta": 1559029311126,
+    "relativePath": "background pictures\\对话框.png"
+  },
+  "a1396768-84ce-4f89-8126-f2d60a1ff495": {
+    "asset": 1559029974923,
+    "meta": 1559029982261,
+    "relativePath": "非洲\\黄框2.png"
+  },
+  "2fad94fc-4328-4272-a684-e27869fbc594": {
+    "asset": 1559040502646,
+    "meta": 1559040510346,
+    "relativePath": "audio\\过客的休息处.mp3"
+  },
+  "b312b2a3-67d1-4bc8-8c24-20bc6ecb1d8a": {
+    "asset": 1559043863299,
+    "meta": 1559044280014,
+    "relativePath": "background pictures\\assistant.png"
+  },
+  "622cf23b-3689-4347-8d4f-5fde0902f899": {
+    "asset": 1559050920263,
+    "meta": 1559050921836,
+    "relativePath": "Scripts\\Eu启动子+质粒.js"
+  },
+  "6c39e4d5-d330-4998-87bf-884ede47e2bf": {
+    "asset": 1584163762538,
+    "meta": 1584163773605,
+    "relativePath": "Scripts\\AudioManager.js"
+  },
+  "71561142-4c83-4933-afca-cb7a17f67053": {
+    "asset": 1552197698000,
+    "meta": 1638687252252,
+    "relativePath": "image\\default_btn_disabled.png"
+  },
+  "e851e89b-faa2-4484-bea6-5c01dd9f06e2": {
+    "asset": 1552197698000,
+    "meta": 1638687252222,
+    "relativePath": "image\\default_btn_normal.png"
+  },
+  "b43ff3c2-02bb-4874-81f7-f2dea6970f18": {
+    "asset": 1552197698000,
+    "meta": 1638687252290,
+    "relativePath": "image\\default_btn_pressed.png"
+  },
+  "edd215b9-2796-4a05-aaf5-81f96c9281ce": {
+    "asset": 1552197698000,
+    "meta": 1638687252272,
+    "relativePath": "image\\default_editbox_bg.png"
+  },
+  "d81ec8ad-247c-4e62-aa3c-d35c4193c7af": {
+    "asset": 1552197698000,
+    "meta": 1638687252293,
+    "relativePath": "image\\default_panel.png"
+  },
+  "99170b0b-d210-46f1-b213-7d9e3f23098a": {
+    "asset": 1552197698000,
+    "meta": 1638687252313,
+    "relativePath": "image\\default_progressbar_bg.png"
+  },
+  "cfef78f1-c8df-49b7-8ed0-4c953ace2621": {
+    "asset": 1552197698000,
+    "meta": 1638687252321,
+    "relativePath": "image\\default_progressbar.png"
+  },
+  "567dcd80-8bf4-4535-8a5a-313f1caf078a": {
+    "asset": 1552197698000,
+    "meta": 1638687252333,
+    "relativePath": "image\\default_radio_button_off.png"
+  },
+  "4bab67cb-18e6-4099-b840-355f0473f890": {
+    "asset": 1552197698000,
+    "meta": 1638687252351,
+    "relativePath": "image\\default_scrollbar_bg.png"
+  },
+  "9d60001f-b5f4-4726-a629-2659e3ded0b8": {
+    "asset": 1552197698000,
+    "meta": 1638687252333,
+    "relativePath": "image\\default_radio_button_on.png"
+  },
+  "617323dd-11f4-4dd3-8eec-0caf6b3b45b9": {
+    "asset": 1552197698000,
+    "meta": 1638687252363,
+    "relativePath": "image\\default_scrollbar_vertical_bg.png"
+  },
+  "d6d3ca85-4681-47c1-b5dd-d036a9d39ea2": {
+    "asset": 1552197698000,
+    "meta": 1638687252373,
+    "relativePath": "image\\default_scrollbar_vertical.png"
+  },
+  "0291c134-b3da-4098-b7b5-e397edbe947f": {
+    "asset": 1552197698000,
+    "meta": 1638687252381,
+    "relativePath": "image\\default_scrollbar.png"
+  },
+  "0275e94c-56a7-410f-bd1a-fc7483f7d14a": {
+    "asset": 1552197698000,
+    "meta": 1638687252392,
+    "relativePath": "image\\default_sprite_splash.png"
+  },
+  "6e056173-d285-473c-b206-40a7fff5386e": {
+    "asset": 1552197698000,
+    "meta": 1638687252394,
+    "relativePath": "image\\default_sprite.png"
+  },
+  "73a0903d-d80e-4e3c-aa67-f999543c08f5": {
+    "asset": 1552197698000,
+    "meta": 1638687252404,
+    "relativePath": "image\\default_toggle_checkmark.png"
+  },
+  "c25b9d50-c8fc-4d27-beeb-6e7c1f2e5c0f": {
+    "asset": 1552197698000,
+    "meta": 1638687252404,
+    "relativePath": "image\\default_toggle_disabled.png"
+  },
+  "d29077ba-1627-4a72-9579-7b56a235340c": {
+    "asset": 1552197698000,
+    "meta": 1638687252414,
+    "relativePath": "image\\default_toggle_normal.png"
+  },
+  "2be36297-9abb-4fee-8049-9ed5e271da8a": {
+    "asset": 1552197698000,
+    "meta": 1638687252484,
+    "relativePath": "misc\\default_video.mp4"
+  },
+  "b181c1e4-0a72-4a91-bfb0-ae6f36ca60bd": {
+    "asset": 1552197698000,
+    "meta": 1638687252424,
+    "relativePath": "image\\default_toggle_pressed.png"
+  },
+  "b8223619-7e38-47c4-841f-9160c232495a": {
+    "asset": 1552197698000,
+    "meta": 1638687252606,
+    "relativePath": "obsolete\\atom.plist"
+  },
+  "b2687ac4-099e-403c-a192-ff477686f4f5": {
+    "asset": 1552197698000,
+    "meta": 1638687252606,
+    "relativePath": "particle\\atom.plist"
+  },
+  "8a96b965-2dc0-4e03-aa90-3b79cb93b5b4": {
+    "asset": 1552197698000,
+    "meta": 1638687252484,
+    "relativePath": "obsolete\\atom.png"
+  },
+  "d0a82d39-bede-46c4-b698-c81ff0dedfff": {
+    "asset": 1552197698000,
+    "meta": 1638687252515,
+    "relativePath": "particle\\atom.png"
+  },
+  "972b9a4d-47ee-4c74-b5c3-61d8a69bc29f": {
+    "asset": 1552197698000,
+    "meta": 1638687252495,
+    "relativePath": "prefab\\button.prefab"
+  },
+  "2c937608-2562-40ea-b264-7395df6f0cea": {
+    "asset": 1552197698000,
+    "meta": 1638687252505,
+    "relativePath": "prefab\\canvas.prefab"
+  },
+  "61aeb05b-3b32-452b-8eed-2b76deeed554": {
+    "asset": 1552197698000,
+    "meta": 1638687252505,
+    "relativePath": "prefab\\editbox.prefab"
+  },
+  "27756ebb-3d33-44b0-9b96-e858fadd4dd4": {
+    "asset": 1552197698000,
+    "meta": 1638687252513,
+    "relativePath": "prefab\\label.prefab"
+  },
+  "785a442c-3ceb-45be-a46e-7317f625f3b9": {
+    "asset": 1552197698000,
+    "meta": 1638687252515,
+    "relativePath": "prefab\\layout.prefab"
+  },
+  "ca8401fe-ad6e-41a8-bd46-8e3e4e9945be": {
+    "asset": 1552197698000,
+    "meta": 1638687252523,
+    "relativePath": "prefab\\pageview.prefab"
+  },
+  "cd33edea-55f5-46c2-958d-357a01384a36": {
+    "asset": 1552197698000,
+    "meta": 1638687252525,
+    "relativePath": "prefab\\particlesystem.prefab"
+  },
+  "5965ffac-69da-4b55-bcde-9225d0613c28": {
+    "asset": 1552197698000,
+    "meta": 1638687252525,
+    "relativePath": "prefab\\progressBar.prefab"
+  },
+  "4a37dd57-78cd-4cec-aad4-f11a73d12b63": {
+    "asset": 1552197698000,
+    "meta": 1638687252535,
+    "relativePath": "prefab\\richtext.prefab"
+  },
+  "32044bd2-481f-4cf1-a656-e2b2fb1594eb": {
+    "asset": 1552197698000,
+    "meta": 1638687252535,
+    "relativePath": "prefab\\scrollview.prefab"
+  },
+  "0004d1cf-a0ad-47d8-ab17-34d3db9d35a3": {
+    "asset": 1552197698000,
+    "meta": 1638687252535,
+    "relativePath": "prefab\\slider.prefab"
+  },
+  "1f55e3be-b89b-4b79-88de-47fd31018044": {
+    "asset": 1552197698000,
+    "meta": 1638687252545,
+    "relativePath": "prefab\\sprite_splash.prefab"
+  },
+  "96083d03-c332-4a3f-9386-d03e2d19e8ee": {
+    "asset": 1552197698000,
+    "meta": 1638687252545,
+    "relativePath": "prefab\\sprite.prefab"
+  },
+  "7de03a80-4457-438d-95a7-3e7cdffd6086": {
+    "asset": 1552197698000,
+    "meta": 1638687252545,
+    "relativePath": "prefab\\tiledmap.prefab"
+  },
+  "0e42ba95-1fa1-46aa-b2cf-143cd1bcee2c": {
+    "asset": 1552197698000,
+    "meta": 1638687252555,
+    "relativePath": "prefab\\tiledtile.prefab"
+  },
+  "0d784963-d024-4ea6-a7db-03be0ad63010": {
+    "asset": 1552197698000,
+    "meta": 1638687252555,
+    "relativePath": "prefab\\toggle.prefab"
+  },
+  "bf0a434c-84dd-4a8e-a08a-7a36f180cc75": {
+    "asset": 1552197698000,
+    "meta": 1638687252563,
+    "relativePath": "prefab\\toggleContainer.prefab"
+  },
+  "d1b8be49-b0a0-435c-83b7-552bed4bbe35": {
+    "asset": 1552197698000,
+    "meta": 1638687252565,
+    "relativePath": "prefab\\toggleGroup.prefab"
+  },
+  "232d2782-c4bd-4bb4-9e01-909f03d6d3b9": {
+    "asset": 1552197698000,
+    "meta": 1638687252565,
+    "relativePath": "prefab\\videoplayer.prefab"
+  },
+  "8c5001fd-07ee-4a4b-a8a0-63e15195e94d": {
+    "asset": 1552197698000,
+    "meta": 1638687252565,
+    "relativePath": "prefab\\webview.prefab"
+  }
+}

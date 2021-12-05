@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "黄框",
+    "texture": "edf4f1b8-4853-4419-879e-bdcc32f1e9ed",
+    "atlas": "",
+    "rect": [
+      139,
+      332,
+      1045,
+      155
+    ],
+    "offset": [
+      9,
+      -84.5
+    ],
+    "originalSize": [
+      1305,
+      650
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

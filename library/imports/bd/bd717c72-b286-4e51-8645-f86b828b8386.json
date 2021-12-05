@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "质粒+启动子",
+    "texture": "97aba65f-d92a-4316-9790-d3e21580a92b",
+    "atlas": "",
+    "rect": [
+      72,
+      161,
+      281,
+      271
+    ],
+    "offset": [
+      12.5,
+      -17
+    ],
+    "originalSize": [
+      400,
+      559
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

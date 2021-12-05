@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "人胰岛细胞",
+    "texture": "880d48f4-5396-4933-ba42-3956139f8b3c",
+    "atlas": "",
+    "rect": [
+      11,
+      81,
+      281,
+      279
+    ],
+    "offset": [
+      1.5,
+      -11
+    ],
+    "originalSize": [
+      300,
+      419
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

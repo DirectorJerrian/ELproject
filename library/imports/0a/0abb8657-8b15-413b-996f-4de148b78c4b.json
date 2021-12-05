@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "逆转录酶",
+    "texture": "eaab4c8e-a24f-45ae-bf4b-7e932c9c735d",
+    "atlas": "",
+    "rect": [
+      109,
+      200,
+      281,
+      281
+    ],
+    "offset": [
+      -0.5,
+      9
+    ],
+    "originalSize": [
+      500,
+      699
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

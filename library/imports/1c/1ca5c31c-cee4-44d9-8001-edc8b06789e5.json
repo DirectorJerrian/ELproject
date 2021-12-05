@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "抗虫棉培育过程",
+    "texture": "d2187367-3bee-4832-8227-8638baa65453",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      412,
+      196
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      412,
+      196
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

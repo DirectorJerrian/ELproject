@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "人乳铁蛋白基因",
+    "texture": "3976c98a-09dc-4715-87b7-c8ae1350104c",
+    "atlas": "",
+    "rect": [
+      65,
+      242,
+      281,
+      23
+    ],
+    "offset": [
+      5.5,
+      26
+    ],
+    "originalSize": [
+      400,
+      559
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

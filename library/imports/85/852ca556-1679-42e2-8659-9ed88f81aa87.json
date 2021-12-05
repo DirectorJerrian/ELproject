@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "启动子",
+    "texture": "6b542373-d2dc-4bc6-b00f-95ae00073f57",
+    "atlas": "",
+    "rect": [
+      63,
+      110,
+      281,
+      373
+    ],
+    "offset": [
+      3.5,
+      -17
+    ],
+    "originalSize": [
+      400,
+      559
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "被剪开的基因",
+    "texture": "07f40968-6ebc-45dd-9d4c-dc174a202866",
+    "atlas": "",
+    "rect": [
+      52,
+      266,
+      281,
+      65
+    ],
+    "offset": [
+      -7.5,
+      -19
+    ],
+    "originalSize": [
+      400,
+      559
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

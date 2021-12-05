@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "苏云金芽孢杆菌",
+    "texture": "a6d04ad2-d3a2-4127-b831-118597ada06a",
+    "atlas": "",
+    "rect": [
+      62,
+      173,
+      281,
+      189
+    ],
+    "offset": [
+      2.5,
+      12
+    ],
+    "originalSize": [
+      400,
+      559
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

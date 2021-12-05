@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "棉花细胞",
+    "texture": "6ebec2b8-769a-4683-bf0b-3018a4833f63",
+    "atlas": "",
+    "rect": [
+      41,
+      173,
+      281,
+      169
+    ],
+    "offset": [
+      -18.5,
+      22
+    ],
+    "originalSize": [
+      400,
+      559
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

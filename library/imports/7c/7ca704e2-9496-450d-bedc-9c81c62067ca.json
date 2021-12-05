@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "限制酶2",
+    "texture": "1226dfa7-00bf-471d-881b-624a6288eaae",
+    "atlas": "",
+    "rect": [
+      60,
+      123,
+      281,
+      219
+    ],
+    "offset": [
+      0.5,
+      47
+    ],
+    "originalSize": [
+      400,
+      559
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

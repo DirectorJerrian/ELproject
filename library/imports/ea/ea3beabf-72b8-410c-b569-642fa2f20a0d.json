@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "基因表达载体",
+    "texture": "03408119-c36b-4e04-b7b5-90d1b3c25c0a",
+    "atlas": "",
+    "rect": [
+      285,
+      481,
+      536,
+      515
+    ],
+    "offset": [
+      17,
+      11.5
+    ],
+    "originalSize": [
+      1072,
+      1500
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

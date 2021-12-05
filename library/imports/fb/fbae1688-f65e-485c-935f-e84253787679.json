@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "RNA聚合酶",
+    "texture": "13b83b78-1540-4f8f-9d47-ce39f15cd494",
+    "atlas": "",
+    "rect": [
+      14,
+      79,
+      281,
+      197
+    ],
+    "offset": [
+      4.5,
+      32
+    ],
+    "originalSize": [
+      300,
+      419
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

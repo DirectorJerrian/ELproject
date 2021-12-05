@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "游戏胜利",
+    "texture": "d8b0e503-efd7-462a-9441-bd9e9b8c2353",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      800,
+      625
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      800,
+      625
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

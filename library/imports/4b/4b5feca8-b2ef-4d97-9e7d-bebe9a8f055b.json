@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "被剪开的人乳铁蛋白基因",
+    "texture": "825a0985-7aa1-4cf0-b876-79ee798419e8",
+    "atlas": "",
+    "rect": [
+      40,
+      305,
+      281,
+      23
+    ],
+    "offset": [
+      -19.5,
+      -37
+    ],
+    "originalSize": [
+      400,
+      559
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

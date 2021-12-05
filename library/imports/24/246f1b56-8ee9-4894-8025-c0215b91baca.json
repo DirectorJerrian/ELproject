@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dna聚合酶",
+    "texture": "7bea4cab-96b8-4563-b384-0a907a0a9ea8",
+    "atlas": "",
+    "rect": [
+      7,
+      70,
+      281,
+      283
+    ],
+    "offset": [
+      -2.5,
+      -2
+    ],
+    "originalSize": [
+      300,
+      419
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

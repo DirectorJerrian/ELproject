@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "碱与SDS操作",
+    "texture": "c80a0bea-95e4-48bc-8eac-6869da1c2a3f",
+    "atlas": "",
+    "rect": [
+      90,
+      150,
+      405,
+      97
+    ],
+    "offset": [
+      -7.5,
+      1.5
+    ],
+    "originalSize": [
+      600,
+      400
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

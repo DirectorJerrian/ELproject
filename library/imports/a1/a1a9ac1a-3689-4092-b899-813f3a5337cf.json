@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Bt毒蛋白基因",
+    "texture": "869aaab0-686c-4b26-8361-a87057f46ca9",
+    "atlas": "",
+    "rect": [
+      10,
+      132,
+      281,
+      57
+    ],
+    "offset": [
+      0.5,
+      -10.5
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dna连接酶",
+    "texture": "8d652c7f-6f42-469f-b956-9a061f572499",
+    "atlas": "",
+    "rect": [
+      11,
+      96,
+      281,
+      197
+    ],
+    "offset": [
+      1.5,
+      15
+    ],
+    "originalSize": [
+      300,
+      419
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "含有重组Ti质粒的棉花细胞",
+    "texture": "08e0b414-fb05-4d9e-93f8-ee851c1a6131",
+    "atlas": "",
+    "rect": [
+      42,
+      165,
+      281,
+      169
+    ],
+    "offset": [
+      -17.5,
+      30
+    ],
+    "originalSize": [
+      400,
+      559
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

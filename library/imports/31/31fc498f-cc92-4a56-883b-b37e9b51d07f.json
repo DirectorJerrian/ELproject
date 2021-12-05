@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dna片段",
+    "texture": "b91881c0-389e-41d7-bc7d-a2d6bd4ea164",
+    "atlas": "",
+    "rect": [
+      157,
+      40,
+      62,
+      339
+    ],
+    "offset": [
+      -12,
+      -9.5
+    ],
+    "originalSize": [
+      400,
+      400
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

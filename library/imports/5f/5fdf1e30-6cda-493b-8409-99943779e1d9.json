@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "含有重组Ti质粒的农杆菌",
+    "texture": "26d6b45d-0bfa-4722-af93-0f68389d43bd",
+    "atlas": "",
+    "rect": [
+      54,
+      171,
+      281,
+      189
+    ],
+    "offset": [
+      -5.5,
+      14
+    ],
+    "originalSize": [
+      400,
+      559
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

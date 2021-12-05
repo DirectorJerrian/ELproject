@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "非洲",
+    "texture": "4f5da97e-bbfc-4300-9952-26f621fd37d6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1076,
+      650
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1076,
+      650
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

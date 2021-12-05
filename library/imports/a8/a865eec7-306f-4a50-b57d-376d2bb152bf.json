@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "实验室界面",
+    "texture": "68e29d79-759c-4501-9e36-645f4f1f83be",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1984,
+      1133
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1984,
+      1133
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

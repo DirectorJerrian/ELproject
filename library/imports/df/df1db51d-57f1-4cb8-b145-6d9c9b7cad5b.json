@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "美洲剧情",
+    "texture": "6db3c20c-527b-4dac-8a0c-1abfee792807",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1076,
+      650
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1076,
+      650
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "棉花",
+    "texture": "d2122509-ce3e-45bb-b21a-f9352e44a42d",
+    "atlas": "",
+    "rect": [
+      75,
+      133,
+      281,
+      319
+    ],
+    "offset": [
+      15.5,
+      -13
+    ],
+    "originalSize": [
+      400,
+      559
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

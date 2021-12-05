@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "雌性转基因牛",
+    "texture": "10d0d62f-2ce6-4b5b-8812-e806c34a3768",
+    "atlas": "",
+    "rect": [
+      68,
+      148,
+      281,
+      209
+    ],
+    "offset": [
+      8.5,
+      27
+    ],
+    "originalSize": [
+      400,
+      559
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
